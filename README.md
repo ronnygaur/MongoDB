@@ -2,6 +2,8 @@
 
 This is a simple MongoDB project demonstrating basic CRUD (Create, Read, Update, Delete) operations using MongoDB and a JavaScript application.
 
+![MongoDB Logo](https://miro.medium.com/v2/resize:fit:1200/0*235QCp2DjFNdxhiu.png)
+
 ## Project Structure 📂
 
 The project is organized as follows:
